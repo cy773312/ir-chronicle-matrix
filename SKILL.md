@@ -11,6 +11,7 @@ description: |
 # IR Chronicle Matrix（三时三事检索矩阵）
 
 > **提示词灵感来源**：本 skill 的 Prompt A 与 Prompt B 系列原始提示词来自**中山大学国际关系学院张添副教授**的"三时三事"国际关系研究框架，经迭代开发为可交互的 Claude Code Skill。
+> **v1.1** — 2026-04-29 经 darwin-skill 6 轮优化（Step 0 Scope Gate / Step 1b 零认知 / Step 2 输出路线图 / 确认闸门 / B 模板压缩 / 设计哲学去重），评分 66.1→82.0。
 
 ## 概述
 
